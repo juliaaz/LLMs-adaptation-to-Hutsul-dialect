@@ -1,0 +1,5 @@
+pandas
+fitz
+pymupdf
+csv
+re
