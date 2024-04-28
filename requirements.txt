@@ -3,3 +3,10 @@ fitz
 pymupdf
 csv
 re
+torch
+datasets
+peft
+transformers
+trl
+huggingface_hub
+accelerate
