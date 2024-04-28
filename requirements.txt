@@ -10,3 +10,5 @@ transformers
 trl
 huggingface_hub
 accelerate
+openai
+langchain
