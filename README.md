@@ -35,6 +35,7 @@ This directory contains all the logic for RAG pipeline for generating Hutsul-Ukr
 ## 🧰 utils
 This directory contains additional files, that were utilized for creating Hutsul-Ukrainian parallel corpora, as well as splitting the data for future training. One important directory to mention is:
 - `word_alignment_analysis`: Directory containing notebooks that analyzes Hutsul-Ukrainian sentence structure similarity for generated synthetic data, and original Hutsul-Ukrainian corpora.
+- `evaluate-llms`: Directory containing logic for evaluating LLMs' translation quality by calculating BLEU and LaBSE.
 
 ## Pretrained Models
 
